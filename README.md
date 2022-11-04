@@ -3,7 +3,7 @@ sc ini hanyalah hasil recode dari sc asli hisoka
 naze hanya menghilangkat bug, memperbagus & menyeting banyak hal
 agar tidak terjadi error
 
-#NazeMD
+#Fzix-Md
 Script WhatsApp Bot Multi Device
 
 ## NOTE
